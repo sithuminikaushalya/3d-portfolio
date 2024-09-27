@@ -198,9 +198,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Spotify Clone",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to listen songs, add songs, create album, providing a convenient and efficient solution for users.",
       tags: [
         {
           name: "react",
@@ -216,40 +216,41 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/sithuminikaushalya/Spotify-Clone",
     },
     {
-      name: "Job IT",
+      name: "Food Delivery App",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A comprehensive mobile application for users to browse, order, and purchase food with an integrated admin panel for managing orders, restaurants, and menus.",
       tags: [
         {
-          name: "react",
+          name: "flutter",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "firebase",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "stripe",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/sithuminikaushalya/Food-Delivery-App",
     },
     {
-      name: "Trip Guide",
+      name: "CV Collector Plugin",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "The CV Collector Plugin is a comprehensive WordPress plugin designed to streamline the collection and management of CVs submitted by users. ",
+
       tags: [
         {
-          name: "nextjs",
+          name: "php",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "js",
           color: "green-text-gradient",
         },
         {
@@ -258,7 +259,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/sithuminikaushalya/CV-Collector-plugin",
     },
   ];
   
